@@ -17,9 +17,6 @@ This project uses [Microsoft Playwright](https://playwright.dev/) to automate an
 
 ```bash
 git clone https://github.com/dilrukshisen/ebay-Playwright.git
-npm install
-npx playwright install
-npm run test
 ```
 
 ### 2. Run the project
